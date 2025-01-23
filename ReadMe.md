@@ -14,8 +14,6 @@ Open a command line / terminal from the root directory and run the following com
 
 Alternatively, you can run the project using "ThreadedGuiForPhysicsEngine.java" file with your choice of IDE. 
 
-![alt text](readme_resources/main_path.png)
-
 ## Running using jar file
 Open a command line from the "build" directory, and run the following command.
  > java -jar "game.jar"
