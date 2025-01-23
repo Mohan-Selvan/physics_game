@@ -1,14 +1,14 @@
-# **CE812-07-SP Main assignment**
+# **Physics based Hame**
 
 # Introduction
-This repository contains the source code of a game made for coursework assignment of module CE812-07-SP. 
+This repository contains the source code of a physics based 2D game with puzzle elements. 
 
 # How to run the project?
 
 ## Running from IDE
 
 The main function of the project is in "ThreadedGuiForPhysicsEngine.java". 
-Open a command line / terminal from "ce812_assignment" directory and run the following command.
+Open a command line / terminal from the root directory and run the following command.
 
 > java -classpath "bin" pbg_wrapperForJBox2D.ThreadedGuiForPhysicsEngine
 
