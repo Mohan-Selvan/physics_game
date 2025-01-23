@@ -1,4 +1,4 @@
-# **Physics based Hame**
+# **Physics based 2D Game**
 
 # Introduction
 This repository contains the source code of a physics based 2D game with puzzle elements. 
